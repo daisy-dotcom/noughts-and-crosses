@@ -3,7 +3,7 @@ import javax.swing.SwingUtilities;
 /**
  * This class creates a Tic Tac Toe client
  * to connect to the Tic Tac Toe server.
- * 
+ *  
  * @author Dr T W Chim.
  * @author Daisy Oira.
  *

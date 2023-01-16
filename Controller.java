@@ -308,7 +308,7 @@ public class Controller {
 				String instructions = 	"Some information about the game\n"
 										+ "Criteria for a valid move:\n"
 										+ "- The move is not occupied by any mark.\n"
-										+ "- The move is made in the player’s turn.\n"
+										+ "- The move is made in the playerï¿½s turn.\n"
 										+ "- The move is made within the 3 x 3 board\n"
 										+ "The game would continue and switch among the opposite player until it reaches either "
 										+ "one of the following conditions:\n"

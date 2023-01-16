@@ -2,7 +2,7 @@ import java.net.ServerSocket;
 /**
  * This class is used to run the Tic Tac Toe
  * server.
- * 
+ *  
  * @author Dr T W Chim.
  * @author Daisy Oira.
  *

@@ -3,7 +3,7 @@ import java.awt.Color;
  * This class holds information
  * about the players.
  * 
- * @author Daisy Oira.
+ * @author Daisy Oira. 
  *
  */
 public class Player {

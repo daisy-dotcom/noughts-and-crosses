@@ -1,5 +1,3 @@
-NAME: OIRA DAISY NYABOKE	UID:3035604477
-
 Steps to Run the Tic Tac Toe Game
 
 1. Compile all the .java files in this folder.

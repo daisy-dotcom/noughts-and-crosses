@@ -41,7 +41,7 @@ public class GameLayout extends JFrame{
 		setTitle("Tic Tac Toe");
 		getContentPane().add(mainPanel);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setSize(300,300);
+		setSize(300,300); 
 		setVisible(true);
 		
 	}
